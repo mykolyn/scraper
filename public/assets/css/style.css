@@ -1,0 +1,95 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color:  #232b2b ;
+}
+
+
+
+#navbar {
+	padding: 10px 30px 10px 30px;
+	font-family: 'Helvetica';
+	overflow: hidden;
+}
+
+.navLink {
+    color: white;
+    margin-right: 50px;
+}
+
+
+
+
+.card {
+    margin-top: 20px;
+}
+
+.card-body {
+    background-color: #b2b2b2;
+}
+
+.headlineLink {
+    text-decoration: none;
+    color: black
+}
+
+.headlineLink:hover {
+    text-decoration: none;
+    color: blue
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.articleImage {
+    width: 100%
+}
+
+.buttonColumn {
+    margin-right: 0px
+}
+
+.saveArticleButton {
+    margin-top: 10px;
+    padding: 10px;
+    font-family: 'Helvetica';
+}
+
+.modal-header {
+    color: brown;
+    font-family: 'Helvetica';
+}
+
+.buttonRow {
+    margin-top: 10px
+}
+
+#titleinput,
+#bodyinput {
+    width: 100%
+}
+
+.articleContainer {
+    padding-bottom: 50px;
+    padding-top: 20px;
+    height:60%;
+    overflow:scroll;
+    overflow-x: hidden;
+}
+
+.noteCard {
+    display: block;
+    width: 100%
+}
+
+.noteCardBody {
+    color: black
+}
+
+header {
+    position: fixed;
+}
+
