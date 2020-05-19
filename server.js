@@ -7,7 +7,7 @@ var db = require("./models");
 
 var PORT = process.env.PORT || 3000;
 
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://admin:admin123@ds117681.mlab.com:17681/heroku_hdq49w3r";
 
 var app = express();
 
